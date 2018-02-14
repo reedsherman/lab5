@@ -7,7 +7,7 @@ Scanner scnr = new Scanner(System.in);
 double lengthRectangle;
 double widthRectangle;
 double radius;
-double sideA;
+double sideA; // side A of the triangle
 double sideB;
 double sideC;
 System.out.print( "Enter length of rectangle (positive integer): ");
